@@ -1,6 +1,8 @@
 # ALM-Assessment
+##### To Test Challenge 1 :
+1. challenge_1.php
 
-### Commands required for challenge_2
+##### To Test challenge 2. run these following commands :
 1. cd challenge_2
 2. cp env.example env
 3. php artisan generate:key
